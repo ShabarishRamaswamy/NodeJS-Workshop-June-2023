@@ -1,1 +1,65 @@
 # NodeJS-Workshop-June-2023
+Welcome to the NodeJS Workshop. This workshop is divided into _ modules. It's a two day 10 hour workshop aimed towards beginners and people having little to no knowledge in backend engineering.
+
+NOTE: This workshop expects people to be ready with NodeJS on their local machines.
+
+# Things Covered in this workshop.
+## Basics
+- Basics of Web.
+- HTTP and HTTPS.
+- Request <-> Response model.
+- TCP and UDP.
+- REST and the alternatives.
+
+## Programming Aspects
+- Javascript.
+- Interpreted VS Compiled languages.
+- NodeJS.
+- WebServers [What they do and why are they required].
+- Hello World in NodeJS.
+
+## Backend Concepts
+- Asynchronous programming.
+- Parallel computing.
+- Threading and basic overview of NodeJS threading.
+- Event Loop basics.
+- Promises.
+- Async/Await.
+- SetTimeout, SetInterval.
+- Callbacks.
+- Middlewares.
+
+## Starting to Build.
+- ExpressJS fundamentals.
+- Movie Booking example.
+- CRUD Operations.
+- AXIOS.
+
+## Databases.
+- Types of Databases.
+- Requirement of Databases.
+- Scalability of different databases.
+- MongoDB fundamentals.
+- Mongoose fundamentals.
+- Integrating example with Mongoose.
+
+## More Backend Concepts.
+- Authentication vs Authorization.
+- JWT.
+- 
+
+## Advances Concepts.
+- CORS.
+- Concurrency vs Parallelism.
+- Hosting [Railway and Github Pages].
+- Internals of V8 and the glimpses of the interpreter.
+
+# Things Skipped in the workshop [Reader's Responsibility now]
+- Other ways of managing packages such as PNPM, Yarn etc.
+- ESM and CommonJS.
+- Module bundlers such as Babel.
+- Typescript.
+- Caching.
+
+# Resources and Futher Reading.
+- https://roadmap.sh/nodejs
