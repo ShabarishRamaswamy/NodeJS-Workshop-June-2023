@@ -6,31 +6,34 @@ NOTE: This workshop expects people to be ready with NodeJS on their local machin
 # Things Covered in this workshop.
 ## Basics
 - Basics of Web.
-- HTTP and HTTPS.
+- HTTP and HTTPS. [Methods and Status Codes]
 - Request <-> Response model.
+- Client <-> Server model.
 - TCP and UDP.
 - REST and the alternatives.
 
 ## Programming Aspects
 - Javascript.
 - Interpreted VS Compiled languages.
-- NodeJS.
+- NodeJS. [V8 Basics]
 - WebServers [What they do and why are they required].
 - Hello World in NodeJS.
+- Destructuring and Spread syntax.
 
 ## Backend Concepts
 - Asynchronous programming.
 - Parallel computing.
 - Threading and basic overview of NodeJS threading.
 - Event Loop basics.
-- Promises.
-- Async/Await.
+- Promises. [Theory]
+- Async/Await. [Coding]
 - SetTimeout, SetInterval.
 - Callbacks.
 - Middlewares.
 
 ## Starting to Build.
 - ExpressJS fundamentals.
+- NodeJS Error handling.
 - Movie Booking example.
 - CRUD Operations.
 - AXIOS.
@@ -46,13 +49,16 @@ NOTE: This workshop expects people to be ready with NodeJS on their local machin
 ## More Backend Concepts.
 - Authentication vs Authorization.
 - JWT.
-- 
+- Sockets.
+- Concept of Caching.
 
 ## Advances Concepts.
 - CORS.
 - Concurrency vs Parallelism.
 - Hosting [Railway and Github Pages].
 - Internals of V8 and the glimpses of the interpreter.
+- Streams and the Streaming APIs.
+- IIFE.
 
 # Things Skipped in the workshop [Reader's Responsibility now]
 - Other ways of managing packages such as PNPM, Yarn etc.
@@ -60,6 +66,11 @@ NOTE: This workshop expects people to be ready with NodeJS on their local machin
 - Module bundlers such as Babel.
 - Typescript.
 - Caching.
+- Containerization.
+- Express generator.
 
 # Resources and Futher Reading.
 - https://roadmap.sh/nodejs
+- https://expressjs.com/
+- https://expressjs.com/en/starter/generator.html
+- https://www.youtube.com/watch?v=8aGhZQkoFbQ
