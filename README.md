@@ -74,3 +74,10 @@ NOTE: This workshop expects people to be ready with NodeJS on their local machin
 - https://expressjs.com/
 - https://expressjs.com/en/starter/generator.html
 - https://www.youtube.com/watch?v=8aGhZQkoFbQ
+- HTTP https://www.youtube.com/watch?v=0OrmKCB0UrQ
+
+# Source
+- HTTP Headers - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
+- HTTP Headers - https://www.iana.org/assignments/message-headers/message-headers.xhtml
+- DNS - https://www.techtarget.com/searchnetworking/definition/domain-name-system
+- HTTP Body - https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages
