@@ -81,3 +81,4 @@ NOTE: This workshop expects people to be ready with NodeJS on their local machin
 - HTTP Headers - https://www.iana.org/assignments/message-headers/message-headers.xhtml
 - DNS - https://www.techtarget.com/searchnetworking/definition/domain-name-system
 - HTTP Body - https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages
+- TCP/IP - https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/
