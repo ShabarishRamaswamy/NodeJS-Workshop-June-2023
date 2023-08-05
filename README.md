@@ -75,6 +75,7 @@ NOTE: This workshop expects people to be ready with NodeJS on their local machin
 - https://expressjs.com/en/starter/generator.html
 - https://www.youtube.com/watch?v=8aGhZQkoFbQ
 - HTTP https://www.youtube.com/watch?v=0OrmKCB0UrQ
+- Event Loop https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 # Source
 - HTTP Headers - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
@@ -82,3 +83,9 @@ NOTE: This workshop expects people to be ready with NodeJS on their local machin
 - DNS - https://www.techtarget.com/searchnetworking/definition/domain-name-system
 - HTTP Body - https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages
 - TCP/IP - https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/
+- Asynchronous Programming - https://stackify.com/when-to-use-asynchronous-programming/
+- Promises - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+- Promises - https://blog.logrocket.com/guide-promises-node-js/
+- Async Await - https://javascript.info/async-await
+- Callbacks - https://www.knowledgehut.com/blog/web-development/nodejs-call-backs
+- Callback Hell - https://medium.com/@jaybhoyar1997/avoiding-callback-hell-in-node-js-7c1c16ebd4d3
